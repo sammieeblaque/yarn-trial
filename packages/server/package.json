@@ -1,0 +1,9 @@
+{
+  "name": "@yarn-trial/server",
+  "private": true,
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "@yarn-trial/common": "1.0.0"
+  }
+}

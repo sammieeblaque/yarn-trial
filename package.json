@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "name": "yarn-trial",
+  "workspaces": [
+    "packages/**"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "index.js"
+}
